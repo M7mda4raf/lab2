@@ -12,6 +12,12 @@ git branch -d new_test
 how to checkout without commit 
 git checkout branch_name 
 
+to delete tags remotely  
+git push origin --delete v1.7
+
+to delete tags locally 
+git tag -d v1.7
+
 
 # to can list tags 
 # we can use git tag 
