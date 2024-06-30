@@ -14,4 +14,4 @@ git checkout branch_name
 
 
 # to can list tags 
-# we can use get tag 
+# we can use git tag 
