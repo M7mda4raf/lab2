@@ -7,3 +7,7 @@ and to delete them local
 we use 
 git branch -d new_dev
 git branch -d new_test
+
+
+how to checkout without commit 
+git checkout branch_name 
