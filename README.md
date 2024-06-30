@@ -1,7 +1,7 @@
 to delete branches remote 
 we use 
-git push origin new_dev
-git push origin new_test
+git push origin :new_dev
+git push origin :new_test
 
 and to delete them local 
 we use 
