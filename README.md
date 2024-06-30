@@ -11,3 +11,7 @@ git branch -d new_test
 
 how to checkout without commit 
 git checkout branch_name 
+
+
+# to can list tags 
+# we can use get tag 
